@@ -1,0 +1,84 @@
+// stylelint-disable selector-no-qualifying-type
+
+//
+// Base styles
+//
+
+.button__group {
+    margin: 3em 0;
+    flex: 100%;
+    text-align: center;
+
+    @media only screen and (max-width: 767.98px) {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+body[data-theme*='light'] {
+    .button__icon {
+        &:hover {
+            i {
+                color: var(--theme-color);
+            }
+        }
+    }
+}
+
+.button__icon {
+    font-size: 12px;
+    text-align: left;
+    background-color: transparent;
+    border: 1px solid #bababa;
+    border-radius: 50px;
+    padding: 4px 26px;
+    color: inherit;
+    cursor: pointer;
+    margin: 0 2.6em 1em 0;
+    position: relative;
+    transition: all 0.2s ease;
+    white-space: nowrap;
+
+    @media only screen and (max-width: 767.98px) {
+        display: block;
+        margin: 0 0 1em;
+    }
+
+    &:last-child {
+        margin: 0;
+    }
+
+    i {
+        color: var(--icon-color);
+        font-size: 32px;
+        float: left;
+        margin: -0.12em 0.2em 0 0;
+        transition: all 0.2s ease;
+    }
+
+    sub {
+        display: block;
+        font-size: 15px;
+        line-height: 1.5;
+        letter-spacing: 1px;
+        bottom: 0;
+        padding: 0 40px 0 0;
+    }
+
+    &:hover {
+        background-color: inherit;
+        border-color: #bababa;
+        i {
+            color: inherit;
+        }
+    }
+}
+.ver {
+    &::after {
+        content: '6.0 +';
+        position: absolute;
+        top: 0;
+        right: -3em;
+    }
+}

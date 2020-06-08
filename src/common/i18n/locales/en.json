@@ -1,0 +1,287 @@
+{
+    "navbar": [
+        ["Blog", "Token", "Wallet", "Team", "Merchant"],
+        [
+            "Terms of service",
+            "Legal",
+            "AML / KYC",
+            "EULA",
+            "All rights reserved"
+        ]
+    ],
+    "main": [
+        [
+            "The use of digital currency",
+            "Anytime, anywhere",
+            "The TBCC platform provides a flexible blockchain systemfor retail chains and retail stores. The system hasgreat potential for widespread adoption ofcryptocurrencies around the world.",
+            "Download on",
+            "Download for"
+        ],
+        [
+            "The most multipurpose payment ecosystem",
+            "On your website",
+            "Accept crypto payments and donations from your online customers.",
+            "In a person",
+            "Accept Coins on your smartphone or tablet at your retail store or restaurant.",
+            "By Email",
+            "Send invoices to vendors as quickly and easily as sending an email."
+        ],
+        [
+            "The excellence of our solution",
+            "Instant deposits in crypto",
+            "Thanks to the high speed of the Finance Chain network, we can ensure that the asset is credited to the user's account with record indicators in terms of time and the number of confirmations.",
+            "Automatic Payouts",
+            "Make automatic payouts to multiple addresses – an essential function for affiliate systems.",
+            "Instant exchange on stable coins",
+            "Automatic exchange of TBCC cryptocurrency on stable coins",
+            "Payments in the most popular Fiat currencies",
+            "Calculations within the system are linked to the exchange rate of 3 major currencies: USD, EURO, CHY.",
+            "Simple integration",
+            "We offer full integration support via a dedicated manager, so you and your customers can enjoy the features of Cryptoprocessing in no time!"
+        ],
+        [
+            "Latest posts",
+            "TBCC platform",
+            "The TBCC platform is a united decentralized ecosystem for users, retailers and suppliers",
+            "Why we use BINANCE DEX",
+            "Decentralized exchanges are gaining popularity because they are more convenient",
+            "Collaboration with EVEMALL",
+            "TBCC platform capabilities and are working to expand the partner network so that users"
+        ],
+        [
+            "Roadmap",
+            "Develop and deploy token on BinanceChain for working with BinanceDex. <br />Start productive usage of plastic payment cards for payments on the merchant’s terminal or for withdrawing in ATM.",
+            "Develop a virtual card and testing it. <br />Develop an application for working with the virtual card in a smartwatch or equal devices. <br />Testing virtual cards and software for its on smart devices.",
+            "Trying to pay and get cashback for each transaction for the merchant. <br />Launched deposit and loan system.",
+            "Launched a deposit system with staking. <br />The launch payment system on cloud services."
+        ]
+    ],
+    "token": [
+        [
+            "The TBCC",
+            "Mission",
+            "The main objective of the TBCC project is to make crypto assets or pay for the purchase of cryptocurrencies no more difficult than sending a message to your favorite messenger.",
+            "Provide people everywhere with access to safe and affordable financial services. In this way, people everywhere can live better."
+        ],
+        [
+            "TBCC payment system for everyone",
+            "Stable",
+            "Accept crypto payments and donations from your online customers.",
+            "Secure",
+            "Accept Coins on your smartphone or tablet at your retail store or restaurant.",
+            "Fast",
+            "Send invoices to vendors as quickly and easily as sending an email.",
+            "Flexible",
+            "Send invoices to vendors as quickly and easily as sending an email.",
+            "User-friendly",
+            "Send invoices to vendors as quickly and easily as sending an email."
+        ],
+        [
+            "Get Started with TBCC",
+            "Defi",
+            "Use as collateral in decentralized Finance.",
+            "Marketplace",
+            "Pay for products in online stores using TBCC platform tokens.",
+            "Savings programs",
+            "Receive rewards for holding TBCC coins for a specific period of time.",
+            "Dex",
+            "A decentralized platform is more appropriate both in terms of security and in terms of economy."
+        ]
+    ],
+    "wallet": [
+        ["The wallet by TBCC", "Blockchain wallet for everyone"],
+        [
+            "Decentralized",
+            "Trading",
+            "The wallet works smoothly with the Binance DEX protocols, which allows you to make instant transactions on a decentralized exchange."
+        ],
+        [
+            "The most multipurpose payment ecosystem",
+            "Contactless payments",
+            "Accept crypto payments and donations from your online customers.",
+            "QR-Code payments",
+            "Accept Coins on your smartphone or tablet at your retail store or restaurant.",
+            "NFC payments",
+            "Send invoices to vendors as quickly and easily as sending an email.",
+            "Online payments",
+            "Send invoices to vendors as quickly and easily as sending an email."
+        ],
+        [
+            "Use",
+            "Crypto-currencies",
+            "We support leading BEP2 cryptocurrencies on the Binance Chain."
+        ],
+        [
+            "Safety",
+            "And anonymity",
+            "We will never gain access to your personal information, and TBCC Wallet always keeps your data confidential and secure."
+        ]
+    ],
+    "team": [
+        ["Our project team"],
+        [
+            "CEO & Founder",
+            "Zhang Qiufa",
+            "CEO venture investor with higher legal education education. Founder of TBCC company. 15 years of experience business activity. Since 2008, investments in start-UPS, with 2015 launch of a micro-finance company . Experience in banking and credit sphere."
+        ],
+        [
+            "CTO",
+            "Evgeny Butyae",
+            "Experience in developing centralized/decentralized solutions, creating/developing/architectural solution for blockchain protocols, author of patents, experience in creating systems using deep learning for neural networks, experience in managing large distributed IT teams."
+        ],
+        [
+            "COO",
+            "Andrey Shushuno",
+            "Deep experience for global project logistics and IT. He has a lot of finishing global projects in IT and logistics. Project responsibilities - team management and all organization tasks, explaining business tasks, and detail it for other team members, taking part in building system architect, products’ presentation on meetups, and global conferences."
+        ],
+        [
+            "Contact us",
+            "Job Applications",
+            "Media",
+            "Invest",
+            "TBCC POS",
+            "TBCC wallet",
+            "TBCC account"
+        ]
+    ],
+    "blog": [
+        ["Latest posts"],
+        [
+            "The TBCC platform",
+            "The TBCC platform is a united decentralized ecosystem for users, retailers and suppliers",
+            "Why we use binance dex",
+            "Decentralized exchanges are gaining popularity because they are more convenient",
+            "TBCC platform collaboration with EVEMALL",
+            "TBCC platform capabilities and are working to expand the partner network so that users",
+            "TBCC coin token release on the BINANCE Chain",
+            "Binance Chain is a suitable platform for ensuring TBCC Coin operation token",
+            "What is DEX and how to work with it via the TBCC app",
+            "Therefore, the TBCC application provides support for exchange on DEX platform"
+        ]
+    ],
+    "post": [
+        [
+            "The TBCC platform",
+            "The popularity of cryptocurrencies continues to grow, but users still face key problems of the crypto industry weren't solved in more than 10 years of working on them. Digital assets are highly volatile, which prevents them from being used as a means to pay for goods and services in both online and offline stores. Therefore, the audience is limited to a greater extent by crypto enthusiasts who show an exclusively speculative interest in cryptocurrencies, which is provided by such volatility.",
+            "Thus, retailers, banks and suppliers cannot fully deploy a decentralized trading network due to the risks associated with strong volatility. For mass adoption of cryptocurrencies, it is necessary to make it as easy to use them as to send a message in social networks or buy a product in an online store.",
+            "And at this stage, we are faced with another common problem – the disparity of cryptocurrency services. A new user may break their head while they figure out how to buy, transfer and exchange cryptocurrency, and even more so, buy something by paying it.",
+            "The question is: how can I use cryptocurrencies without juggling multiple wallets, private keys, seed phrases, and various authenticators and multi-signatures?",
+            "The TBCC development team has come up with a platform that will provide cryptocurrency users with a full-fledged all-in-one infrastructure, so that they can conveniently buy, store and pay with cryptocurrencies in one place.",
+            "The technology behind the TBCC platform",
+            "The TBCC platform is a united decentralized ecosystem for users, retailers and suppliers. Users can pay for goods and services using cryptocurrencies that are stored in the platform's mobile multi-currency wallet.",
+            "Mobile TBCC crypto wallet",
+            "The main asset management center is located in the mobile application of the platform. Using the wallet, users can pay for goods and services using cryptocurrency using a QR code, store addresses and private keys. The wallet supports multi-currency functionality: in addition to the internal TBC Coin token, users can store popular coins such as Bitcoin, Bitcoin Cash, Ethereum, Ripple and other crypto assets. The mobile wallet is available for free for iOS and Android devices. Let's describe the advantages of a mobile wallet.",
+            "Security",
+            "Your private keys are encrypted and never leave your device. You are in full control of your funds and can restore access to your funds at any time using a seed phrase (a mnemonic password for a crypto wallet).",
+            "Anonymity",
+            "You do not have to create accounts and pass KYC verification to use any wallet features. Funds are completely owned by users, and no one can block them.",
+            "Round-the-clock support",
+            "The support service is always ready to help users solve their problems 24/7. Specialists quickly respond to requests. You can contact them via chat or email.",
+            "Payment via QR code",
+            "Users can make purchases using a QR code at retail outlets and online stores connected to TBCC. You can make a payment using the store QR code or a one-time QR code generated by the seller for a specific purchase. In the former case, the buyer will need to enter the cost of the product or service themselves. In the latter case, the cost will already be encrypted in the code. The buyer only needs to confirm the operation.",
+            "POS Terminal",
+            "The main feature of the project is that TBCC supply their own POS devices for accepting payments in cryptocurrencies. The internal token of the platform - TBC Coin - is used both as a payment unit and as a gas, similar to what happens in the Ethereum blockchain, where gwei serves as the fuel that drives cryptocurrency transactions.",
+            "The main mission of the TBCC platform is to demonstrate how easy it is to use cryptocurrencies to make everyday purchases using their own technology. The creators plan to deploy a decentralized trading network around the world, making crypto payments as convenient and secure as possible for both buyers and sellers.",
+            "The problem of volatility",
+            "What about volatility? Earlier we talked about the fact that the high volatility of cryptocurrencies makes it unsuitable for use as payment of products and services. In just a day, the exchange rate of cryptocurrencies can change by 10% - 30%. There are cases when digital assets fall in price even by 50% or more. In such conditions, the use of cryptocurrencies as a payment tool is impossible, but the creators of the TBCC platform have found a solution: hedge in stablecoins. In this way, it is possible to keep the token price from a fall that can hurt retailers and suppliers of goods.",
+            "What is the advantage of using cryptocurrencies for payment? Users mistakenly believe that they will pay the same amount, so there is no positive side to converting to cryptocurrencies. In fact, this is not the case. Banks authorize transactions via a POS terminal and process currency payments. A decentralized network allows you to exclude banks from this chain, so that the service for stores will become cheaper, and the prices of goods will decrease accordingly.",
+            "Secure payments",
+            "Another important advantage of the payment system underlying the TBCC platform is the security provided by the blockchain. Traditional e-commerce online stores process requests for a long time. Blockchain allows you to speed up and automate this process in many ways. This is especially true for the return of low-quality or unsuitable products.",
+            "The TBCC structure supports a fully autonomous marketplace where users can buy goods and services from online stores, as well as freely exchange one crypto asset for another. Other advantages of the platform:",
+            "The mobile app provides secure storage, purchase and sale of cryptocurrency in one touch. Users will not have to understand all the nuances and spend a lot of time in order to use digital assets every day.",
+            "Stores will be able to accept payments via the TBCC mobile payment system using a crypto wallet. Customers will be able to pay the invoice issued by the online store using a QR code.",
+            "In addition, the blockchain provides full transparency and integrity of data stored in the blockchain. Thus, the decentralized network fully accompanies both sides of the transaction from the moment of purchase to the moment of receiving the goods. Users will be able to track the status of goods and deliveries through the tracking system. This way the customer will always be aware of the order status throughout the entire transaction period.",
+            "Conclusion",
+            "One of the main messages of skeptics is that cryptocurrencies have no real value: they are used primarily for speculation in the financial market and are not used in the real sector of the economy. The TBCC platform will change this view by providing a flexible blockchain system for retail chains. The system has great potential to ensure world-wide adoption of cryptocurrencies."
+        ],
+        [
+            "Why we use binance dex",
+            "Decentralized exchanges are gaining popularity because they are more convenient to use and more secure compared to centralized counterparts.",
+            "If you use a centralized platform for exchanging crypto assets, then you first need to transfer the cryptocurrency to the exchange account in order to receive the user's transaction to the POS address, and then hedge against the stablecoin. As a result, users have to go through at least three stages:",
+            "Transfer of funds to a crypto exchange",
+            "Trading on the exchange",
+            "Withdrawal of funds from the exchange to the POS-terminal wallet.",
+            "DEX platforms allow you to avoid such inconveniences – all operations can be performed within a single blockchain. When using Binance DEX, you only have to make one transaction. In addition, you completely control your wallet through private keys, and the exchange does not have access to your crypto assets.",
+            "Binance DEX advantages",
+            "Blockchain makes payments more secure, and transaction processing is instant, unlike fiat payments. ",
+            "A single POS terminal address is used",
+            "A single transaction for hedging with a minimum fee",
+            "No fees for deposit/withdrawal (other than the blockchain fee)",
+            "Using a decentralized platform is more appropriate both from the security point of view and in terms of cost saving and convenience. "
+        ],
+        [
+            "TBCC platform collaboration with EVEMALL",
+            "Dear users, we inform you that we have entered into a strategic partnership with Evemall. We strive to expand the TBCC platform capabilities and are working to expand the partner network so that users can conveniently use digital tokens for their everyday needs.",
+            "Evemall is a large chinese online store that provides a wide range of products. Using traditional currencies for payment limits buyers. Integration of payment solutions provided by the TBCC platform will allow you to accept payments around the world without any issues since cryptocurrencies are easy to convert.",
+            "Now our users can easily pay for products in the Evemall online store using TBCC platform tokens",
+            "Blockchain makes payments more secure, and transaction processing is instant, unlike fiat payments. ",
+            "Our goal is to make cryptocurrencies available for online payments, so we plan to connect as many stores and retail retailers as possible to deploy a full-fledged cryptocurrency ecosystem."
+        ],
+        [
+            "TBCC coin token release on the BINANCE Chain",
+            "We are actively working on the development of the TBCC platform infrastructure and are happy to inform you that we have released the TBCC token on the Binance Chain platform.",
+            "Binance Chain (BC) is a decentralized platform for exchanging digital assets from the largest and most popular trading platform. The BC blockchain is based on a high-performance distributed consensus mechanism.",
+            "Our platform offers a flexible solution based on distributed blockchain technology that allows integrating a system for accepting online payments",
+            "With TBCС token, you can pay for products in partner stores, trade on DEX, use it collateral on lending platforms, as well as in loyalty programs and voting.",
+            "Binance Chain is a suitable platform for ensuring TBCC Coin operation token, because it has high security and allows quick transactions processing within the network. This allows you to use the platform to pay for goods and services due to cheap transactions and high bandwidth.",
+            "You can find all the interesting information about the TBCC Coin token in the Binance blockchain browser via the <a href='https://explorer.binance.org/asset/TBC-3A7'>following link</a>."
+        ],
+        [
+            "What is DEX and how to work with it via the TBC app",
+            "The decentralized market infrastructure develops rapidly. The main goal of DEX platforms is to provide full control over their funds and exchange trading, providing better security and eliminating intermediaries from the exchange chain. Recently, all crypto wallet apps have started to add an exchange function that allows you to exchange crypto assets directly within the apps. This feature was added to the TBC app as well.",
+            "Thus, you can trade tokens within your wallet without having to withdraw funds, which minimizes the fees. With the TBC app, you can work with decentralized platforms directly, so that you do not have to send funds anywhere, you can trade assets that you have on your balance. This article will explain what DEX is and how to trade in a decentralized market.",
+            "What is DEX?",
+            "A decentralized exchange (DEX) is a platform for exchanging digital assets based on blockchain technology. Users of DEX platforms do not have to register an account – they can trade together with other users, using their crypto account in trading on a decentralized platform. Thus, users will not have to trust their funds to the trading platform. Moreover, all transactions made by users of the platform are recorded in the blockchain. In other words, trading transactions on DEX are registered in the same way as regular transactions.",
+            "Dex platforms are fundamentally different from platforms with centralized trading operations for the sale and purchase of crypto assets (CEX). The main difference is in the organization and storage of orders, user funds, and the environment for trading transaction execution. CEX, as the name implies, stores users' funds centrally and issued purchase/sale orders are executed within the platform, all information about which is stored centrally and on the CEX facilities. In other words, central storage is used, there is no distributed execution and decision-making, and as a result, there is no full multi-user and unbiased data validation, which leads to the possibility of conducting illegitimate transactions.",
+            "This is a less secure approach, since when the trading platform system is hacked, the damage is caused mostly not to the company but to the users who provided funds to the platform and conducted trades on it. In other words, when you top up the exchange's balance, you trust your funds to the platform and have to worry more about the platform's security than think about attracting additional funds and earning opportunities.",
+            "The concept of decentralized platforms is quite different: you do not have to top up the platform's balance to trade. All you need to do is create an account on the blockchain protocol you are interested in, top it up with cryptocurrency and register it on the DEX platform. After that, you can start conducting trading operations and form and close orders.",
+            "On the same account, you will store funds, and the crypto assets received via a decentralized exchange platform are immediately transferred to your crypto account. You can use funds that are already stored in your account. No one else can get access to your coins, including the exchange itself, since the private key belongs only to you. However, if you lose your private key, or it is compromised, you may lose your funds – this is the price for freedom blockchain provides.",
+            "Now you understand the fundamental differences between decentralized and centralized trading platforms. Next, let's look at the differences in more detail.",
+            "What is the difference between DEX and centralized platforms",
+            "Decentralization is one of the main characteristics of cryptocurrencies and one of the necessary conditions for their existence. But it took a long time before decentralized services began to develop: exchange platforms, applications, etc. Prior to that, services were exclusively centralized, which limited the potential of cryptocurrencies. But with the development of DEX platforms, everything has changed: now users can control not only the storage, but also the exchange of crypto assets. But decentralized sites at the present time has its drawbacks:",
+            "The exchange rate is limited by the capacity of the network. Of course, the blockchain is developing further and further, and the bandwidth of decentralized networks is increasing, which makes it possible to process transactions faster. But for now, DEX is inferior to centralized exchanges.",
+            "There are problems caused by the need to increase the computing resources of the trading platform. Since all operations are validated and verified within a distributed computing network, increasing resources on a single node will not affect the speed of the entire node system, but if the increase and expansion of resources occurs within the entire network, its capabilities will be greatly expanded, but this process is very expensive and almost impossible, since most nodes do not belong to a specific organization. Centralized platforms can easily increase computing power to provide faster computing and decision-making speeds.",
+            "Inconvenience. Centralized sites are more convenient to use. Technical features of DEX make the trading process more complicated.",
+            "Limited number of trading instruments. CEX exchanges provide a wide range of tools, such as margin trading with leverage, futures and perpetual contracts, options, etc.",
+            "Low liquidity. In centralized systems, liquidity is provided by exchanges, and in DEX - only by users themselves.",
+            "But centralized trading platforms also have disadvantages related to the security of funds, which carries high risks for users. Of course, exchanges are improving security, improving servers and improving security measures, but this does not guarantee complete security, and users still have to trust their funds to the platform.",
+            "DEX aims to meet the basic needs of users and crypto traders: autonomy and security. Let's list the main advantages of decentralized platforms:",
+            "High security of user funds. Using DEX, you get full control over access to funds via private keys. All funds are managed from an account registered in the DEX platform, which is used for trading and other operations performed by the user.",
+            "Privacy. Cryptoaccounts do not require verification. Users do not provide any personal information to DEXes.",
+            "Decentralized exchange. DEX servers are classic blockchain nodes that are part of the blockchain network at startup and operation, which provides a secure and verified mode of operation, and confirmation, modification and writing data to the blockchain occurs only after passing and successfully completing the consensus stage, which makes it possible to minimize the risk of unauthorized management of user assets. This corresponds to the principles of the network, according to which cryptocurrencies are arranged, which significantly increases security and allows to prevent hacking and theft of users' funds in every possible way. Hacking such systems will be extremely problematic using current approaches and capabilities. To conduct a full-fledged attack on such systems, it is necessary to spend not only large computing resources to intercept and manage the chain confirmation in the pow consensus, but also large amounts of financial assets to purchase a large amount of native protocol coins to gain control over the POS-type consensus.",
+            "Sovereignty. Centralized platforms are forced to comply with the rules and requirements of financial regulators, which imposes its own restrictions on trading. DEX exchanges are not subject to external economic and political interaction, so they are more democratic. DEX do not have a single control center on either the technical or administrative side, so they can be used by users from all over the world without any restrictions for trading assets, but as citizens of a particular subject or territory, they are required to comply with the regulations and rules that apply in this territory.",
+            "How the TBC cryptocurrency app contributes to the development of the DEX ecosystem",
+            "Modern applications extend their functionality to provide users with the functionality that lies at the аoundation of cryptocurrencies and blockchain technology. Therefore, the TBC application provides support for exchange on DEX platform.",
+            "The TBC app supports a variety of cryptocurrencies and tokens that you can trade on available DEX platforms. By registering on a decentralized exchange, you can quickly exchange any crypto asset, without having to top up the user account in the system and waiting for the time of crediting this asset to the user's account, as it happens when using the deposit system of centralized platforms.",
+            "TBCC platform continues to work on the development of decentralized exchange and increase the number of methods: from basic asset trading to exchange using advanced tools for working with orders, supported by decentralized trading platforms.",
+            "Advantages of the TBC application for trading on DEX",
+            "The TBC app has many advantages due to advanced crypto wallet features for managing digital assets. Let's see what advantages the TBC app offers to its users.",
+            "Convenience",
+            "The app is easy to use and has a user-friendly interface that is easy for any beginner to understand. TBC strives to make the process of working with cryptocurrency as simple and efficient as possible.",
+            "Functionality",
+            "The application has a wide functionality, thanks to which its capabilities are not limited only to displaying crypto assets stored on the balance of an account that is registered on the DEX platform. You can perform any operations with assets on your balance directly from the app, which greatly simplifies working with DEX platforms and expands the range of use. As the TBCC infrastructure develops, the app's functionality will expand as well.",
+            "Mobility",
+            "The application is available on mobile platforms, so you get quick access to funds from anywhere in the world with the ability to perform any trading actions.",
+            "Cryptocurrency purchase",
+            "You can not only top up your account balance with coins, but also buy cryptocurrency directly in the app using credit and debit cards, bank transfers, and electronic payment systems.the purchased crypto asset will be automatically credited to the app user's balance.",
+            "Privacy",
+            "Users do not provide their personal data, which ensures high confidentiality of funds, so you can make transactions on DEX platforms anonymously.",
+            "Security",
+            "Only the users themselves have access to the wallet. Only they own private keys, without which access is impossible. There are other options to enhance security: you can protect your wallet with a password or Touch ID.",
+            "Low trading fees",
+            "The fee on DEX platforms is significantly lower than on their centralized counterparts, since the fees are set by the blockchain, which does not require high fees due to the lack of intermediaries who bear the operating costs for servicing the exchange.",
+            "Widespread infrastructure",
+            "DEX platforms have many users who use various cryptocurrency wallet applications. This provides a large flow of users and creates liquidity for decentralized exchange by trading between them.",
+            "Support of multiple languages",
+            "The TBC application interface allows you to select different languages. The platform aims to expand its infrastructure to support as many users as possible around the world.",
+            "How to trade using the TBC app",
+            "The ability to exchange crypto assets appeared long before the foundation of the first DEX platforms. Even then, users could exchange assets within the app. Here we will talk about two main ways that users can convert crypto assets: swap and regular exchange.",
+            "Swap",
+            "Asset swap is the simplest cryptocurrency exchange. This approach allows you to exchange cryptocurrencies between different blockchains according to pre-defined rules. This process is also called cross-chain exchange. Just select a pair of crypto assets that you want to exchange and make a deal as soon as there are counter offers.",
+            "Exchange",
+            "The exchange via DEX is built on top of the token swap. The exchange takes place using a similar procedure on centralized platforms: using open orders. With this method, users can view charts and other trading tools for the purpose of analyzing exchange indicators, which provides the necessary minimum set of tools for users-traders.",
+            "Using the TBC application to perform operations through the DEX platform, the application user gets all the advantages of decentralized exchange, especially such as privacy and security. The user also has full control over their crypto assets and uses all the usual functions provided by centralized exchanges: configuring charts, placing orders, viewing trading history, information about trading volumes, and other trading tools. This way you have more control over exchange transactions, higher security, and the same wide range of exchange tools for analyzing market behavior. At the same time, the process itself remains familiar for those who already have experience of trading on centralized exchanges."
+        ]
+    ],
+    "errors": [["404", "Page not found."]]
+}
